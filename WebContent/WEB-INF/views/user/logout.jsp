@@ -1,6 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ include file="/WEB-INF/views/common/header.jspf" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-처음보이는 index
-
+로그아웃 했다<br>
+<a href="/views/user/login">로그인 페이지로</a>
 </body>
 </html>
